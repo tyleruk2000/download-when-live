@@ -1,0 +1,25 @@
+{
+  "name": "download-when-live",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyleruk2000/download-when-live.git"
+  },
+  "author": "Tyler Allen",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/tyleruk2000/download-when-live/issues"
+  },
+  "homepage": "https://github.com/tyleruk2000/download-when-live#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "log4js": "^6.3.0",
+    "node-wget": "^0.4.3",
+    "sleep": "^6.2.0"
+  }
+}
