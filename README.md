@@ -5,5 +5,5 @@ npm start "https://www.google.com"
 ```
 
 ## TODO
-- [] Fix wget vunerability
+- [ ] Fix wget vunerability
 - 
