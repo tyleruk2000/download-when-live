@@ -18,7 +18,7 @@
   "homepage": "https://github.com/tyleruk2000/download-when-live#readme",
   "dependencies": {
     "axios": "^0.21.1",
-    "log4js": "^6.3.0",
+    "log4js": "^6.4.0",
     "node-wget": "^0.4.3",
     "sleep": "^6.2.0"
   }
